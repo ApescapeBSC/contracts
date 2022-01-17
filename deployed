@@ -17,5 +17,6 @@
   "autoCompoundMcRoktBnbRoktLp": "0xd372b6F77fEf2E93da37C4C3A72a68fAAA286444",
   "strategyNitro": "0x90Ed31de6B9d9aEA73ab4942CC6E9cD9588ce573",
   "AutoCompoundNtro": "0x42C30c2548b28Abacd23e178aB1e4DbaA4e3469b",
-  "ApescapeMultisig": "bnb:0xDBa4cb9b85ab5bA89a5baD9523c7bf1238fdD8EC"
+  "ApescapeMultisig": "bnb:0xDBa4cb9b85ab5bA89a5baD9523c7bf1238fdD8EC",
+  "ApescapeMultisig": "arb1:0x43B7e808111a525829fa2f12553e07069f6bD630"
 }
